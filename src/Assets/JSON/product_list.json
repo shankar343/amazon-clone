@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "title":"Lean Startup: How to Apply the Lean Startup Methodology to Innovate, Accelerate, and Create Successful Businesses ",
+        "price":"29.99",
+        "rating":4,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+    },
+    {
+        "id":"2",
+        "title":"Mi Smart Band 5-1.1” AMOLED Color Display, 2 Weeks Battery Life, 5ATM Water Resistant",
+        "price":"177.95",
+        "rating":4,
+        "image":"https://m.media-amazon.com/images/I/41TXCe7NGML._AC_SY200_.jpg"
+    },
+    {
+        "id":"3",
+        "title":"JSTOR P1 Portable Wireless Speaker, Grey",
+        "price":"97.04",
+        "rating":4,
+        "image":"https://m.media-amazon.com/images/I/41iXyRanDvL._AC_SY200_.jpg"
+    },
+    {
+        "id":"4",
+        "title":"Regular Fit Men's Striped Yellow T-Shirt (T305-AS10YLDNWH_1)",
+        "price":"154.89",
+        "rating":3,
+        "image":"https://m.media-amazon.com/images/I/61tZQmRl5oL._AC_UL320_.jpg"
+    },
+    {
+        "id":"5",
+        "title":"Voltas Beko 8 Place Table Top Dishwasher (DT8S, Silver, Inbuilt Heater, Adjustable Upper Shelf)",
+        "price":"1089.05",
+        "rating":3,
+        "image":"https://images-eu.ssl-images-amazon.com/images/I/31Ne6MXM5OL._AC_US160_FMwebp_QL70_.jpg"
+    },
+    {
+        "id":"6",
+        "title":"Samsung 80 cm (32 inches) Wondertainment Series HD Ready LED Smart TV UA32TE40AAKXXL (Titan Gray) (2020 model)",
+        "price":"1242.99",
+        "rating":4,
+        "image":"https://m.media-amazon.com/images/I/71hk35dbxoL._AC_UY218_.jpg"
+    }
+]

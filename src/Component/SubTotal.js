@@ -1,0 +1,31 @@
+import React from 'react'
+import CurrencyFormat from 'react-currency-format'
+import '../Assets/CSS/SubTotal.css'
+
+function SubTotal() {
+    return (
+        <div className="subtotal">
+            <CurrencyFormat
+                renderText={(value)=>(
+                    <>
+                    <p>SubTotal (0 items): <strong>0</strong></p>
+                    <small className="subtotal__gift">
+                        <input type="checkbox" />
+                        This order contains a gift
+                    </small>
+                    </>
+                )
+                }
+                decimalScale={2}
+                value={0}
+                displayType={"text"}
+                thousandSeparator={true}
+                prefix={"$"}
+            />
+
+            <button>Proceed To Checkout</button>
+        </div>
+    )
+}
+
+export default SubTotal
